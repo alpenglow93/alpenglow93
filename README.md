@@ -70,6 +70,6 @@
 <br>
 
 ## 📈 지금 공부하고 있는 것
-- **📚 북스테이션 — Spring Boot + React 개인 프로젝트 (진행 중)** · [Backend](https://github.com/alpenglow93/BookStation-backend) · [Frontend](https://github.com/alpenglow93/BookStation-frontend)
+- **📚 북스테이션 — Spring Boot + React 개인 프로젝트 (진행 중)** · [Backend](https://github.com/alpenglow93/BookStation-backend) / [Frontend](https://github.com/alpenglow93/BookStation-frontend)
 
   처음 접하는 React와 AI API 연동을 학습하며, 사용자 맞춤 추천 기능을 구현하고 있습니다.
