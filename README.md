@@ -2,7 +2,7 @@
 
 **Java / Spring 기반 백엔드 개발자**를 준비하고 있습니다.  
 국비 과정에서 Spring Boot·Oracle 기반 웹 서비스를 팀 단위로 개발했고, Vue로 화면 구현까지 담당했습니다.  
-실습을 통해 Jenkins·Docker 기반 배포 자동화 흐름도 경험했습니다.
+실습을 통해 Jenkins·Docker 기반 배포 자동화 흐름도 경험했습니다.  
 "돌아가는 코드"를 넘어 **왜 안 되는지 끝까지 원인을 찾는 개발자**가 되려고 합니다.
 
 - 📧 Email: 0405_jh@naver.com
@@ -41,11 +41,11 @@
 ## 📂 Projects
 
 ### 🎓 LMS (학습관리시스템) — 팀 프로젝트 · [Repo](https://github.com/java-last-project/EduVantage)
-`Spring Boot` `JPA` `MyBatis` `Spring Security` `Thymeleaf` `Vue` `Pinia` `Oracle`
+`Spring Boot` `JPA` `MyBatis` `Thymeleaf` `Vue` `Pinia` `Oracle`
 
 - **담당:** 강사 페이지, 관리자 페이지
-- Spring Security를 새로 학습해 인증/인가 적용
 - 페이지 특성에 따라 Thymeleaf(SSR)와 Vue(CSR)를 혼용하는 구조 설계
+- 강의 등록/수정, 수강생 관리
 
 ### 🛒 신발 쇼핑몰 — 팀 프로젝트 · [Repo](https://github.com/SIST-SWMS/2026-web-project)
 `Java Servlet` `JSP` `MyBatis` `Oracle` `Vue 3` `Axios`
@@ -56,7 +56,7 @@
 - 트러블슈팅: MyBatis `ORA-17004` null 바인딩 원인(insert 시 VO 누락) 추적 및 해결
 - 회고: 메서드별 SqlSession 분리로 인한 트랜잭션 정합성 문제를 인지하고 개선 과제로 정리
 
-  <br>
+<br>
 
 ## 🧪 학습 · 실습
 
@@ -70,6 +70,6 @@
 <br>
 
 ## 📈 지금 공부하고 있는 것
-- **Spring Boot + React 개인 프로젝트 (진행 중)** · [Backend](https://github.com/alpenglow93/BookStation-backend) · [Frontend](https://github.com/alpenglow93/BookStation-frontend)
+- **📚 북스테이션 — Spring Boot + React 개인 프로젝트 (진행 중)** · [Backend](https://github.com/alpenglow93/BookStation-backend) · [Frontend](https://github.com/alpenglow93/BookStation-frontend)
 
   처음 접하는 React와 AI API 연동을 학습하며, 사용자 맞춤 추천 기능을 구현하고 있습니다.
