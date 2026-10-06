@@ -40,14 +40,14 @@
 
 ## 📂 Projects
 
-### 🎓 LMS (학습관리시스템) — 팀 프로젝트 · [Repo](https://github.com/java-last-project/EduVantage)
+### 🎓 EduVantage (학습관리시스템) — 팀 프로젝트 · [Repo](https://github.com/java-last-project/EduVantage)
 `Spring Boot` `JPA` `MyBatis` `Thymeleaf` `Vue` `Pinia` `Oracle`
 
 - **담당:** 강사 페이지, 관리자 페이지
 - 페이지 특성에 따라 Thymeleaf(SSR)와 Vue(CSR)를 혼용하는 구조 설계
 - 강의 등록/수정, 수강생 관리
 
-### 🛒 신발 쇼핑몰 — 팀 프로젝트 · [Repo](https://github.com/SIST-SWMS/2026-web-project)
+### 🛒 3hose (신발 물류 관리 시스템 + 쇼핑몰) — 팀 프로젝트 · [Repo](https://github.com/SIST-SWMS/2026-web-project)
 `Java Servlet` `JSP` `MyBatis` `Oracle` `Vue 3` `Axios`
 
 - **담당:** 장바구니, 주문/결제 (프로젝트 내 가장 복잡한 도메인)
